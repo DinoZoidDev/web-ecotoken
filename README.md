@@ -4,7 +4,8 @@ https://app.ecotoken.earth
 ecoToken's previously open-sourced monorepo, with a reformed purpose to show the validity of my skills & abilties.
 This version of our monorepo is quite old compared to the version I last worked with. The official repo sits at about 600+ commits, while this version sits at 300+ commits, to help you put the age of this repo into perspective.
 
-Originally forked from: https://github.com/RhysSullivan/web-ecotoken
+Originally forked from: https://github.com/RhysSullivan/web-ecotoken<br>
+Original organization from which the original fork was made: https://github.com/ecoWarriors
 
 <img width="1491" alt="Landing" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/99495f09-f980-4e7c-9163-26472d28c19c">
 <img width="1491" alt="Projects" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/d7406e10-16c7-4f74-8a0a-157f7270ce7d">
