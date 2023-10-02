@@ -30,7 +30,7 @@ Original organization from which the original fork was made: https://github.com/
 <img width="1512" alt="Orders" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/aaa6a316-5652-465e-a8ee-01948cfadf57">
 <img width="1512" alt="Order (Faucet Filter Showcase)" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/a753c838-4660-4794-8841-a6cbbaa5db21">
 <img width="1512" alt="Export Order Data" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/bd2407a3-cc5f-48c4-a385-c57f8897663c">
-<img width="1512" alt="Export Order Data (Minimized Sidebar)" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/25170722-e1ed-489a-bb01-b889b4f56a8e">
+<img width="1512" alt="Export Order Data (Minimized Sidebar)" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/5eca83d8-7259-4cfd-8e27-acfa54064be2">
 <img width="1512" alt="Projects" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/0136139a-bfd4-4bcd-b56a-373b4669bd64">
 <img width="1512" alt="Create Project" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/dad19804-ff28-498b-a3fa-6be1b4f9c3f9">
 <img width="1512" alt="Edit Project (Summary)" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/bfd1396e-dc30-43ce-9214-da80307ceb8f">
