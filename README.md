@@ -15,11 +15,11 @@ Original organization from which the original fork was made: https://github.com/
 <img width="1491" alt="Retired NFTs" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/bd211b1b-7356-4aef-8146-80527ea00c5f">
 <img width="1491" alt="Settings (Main)" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/d39644f8-96a4-4797-8de6-0a91c67baa6e">
 <img width="1491" alt="Settings (Wallets)" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/1475c8ab-b265-4e64-b8e7-d6f1046c4ac7">
-<img width="1512" alt="Admin Users" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/0c37162f-8ed3-41b7-b703-9772d5e3d83e">
+<img width="1512" alt="Admin Users" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/b83d8fc2-40be-4363-a541-e508f34745f1">
 <img width="1512" alt="Create Admin User" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/c82082ae-d9bb-4d39-b693-971938f7a959">
 <img width="1512" alt="Create Admin User (Filtered Role Showcase)" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/0daefd5a-f57a-433b-a766-9e3688992110">
-<img width="1512" alt="Edit Admin User" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/fbbb0d45-2599-4bfd-aaf9-b9e0abef1207">
-<img width="1512" alt="Edit Admin User (Password Generator Showcase)" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/136a74c5-1b48-4590-9c95-7e4512464ca9">
+<img width="1512" alt="Edit Admin User" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/4e4e96b7-0e8a-4d79-93e3-c806907fd5fc">
+<img width="1512" alt="Edit Admin User (Password Generator Showcase)" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/24d535dd-6cf0-4a47-ab43-31cc49bece06">
 <img width="1512" alt="Websites" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/4c16d49e-bb4d-4f04-b229-b844afd915f7">
 <img width="1512" alt="Create Website" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/a251551a-ecfd-48eb-9c7e-19c08458e2cb">
 <img width="1512" alt="Edit Website" src="https://github.com/DinoZoidDev/web-ecotoken/assets/38674879/b659b186-9b1d-41a1-b274-6a91e85924e0">
